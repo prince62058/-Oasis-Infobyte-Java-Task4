@@ -5,7 +5,7 @@ ONLINE EXAMINATION
   TASK 4
 
   
-Laptop with Browser Icon
+
 The project should be capable of the following functionalities.
 
 Login
